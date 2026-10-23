@@ -1,4 +1,5 @@
 # UMBRAL
+<img width="630" height="500" alt="00-capa-630x500" src="https://github.com/user-attachments/assets/3f4c5ad8-57db-41b1-8b93-b576159f45d8" />
 
 Um roguelike de sobrevivência feito por uma pessoa só, em um único arquivo HTML.
 
